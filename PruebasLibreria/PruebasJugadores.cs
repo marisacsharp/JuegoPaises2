@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace PruebasLibreria
 {
     [TestClass]
-    public class PruebasJugadores
+    public class PruebasJugadores 
     {
         [TestMethod]
         public void TestAltaJugador()
